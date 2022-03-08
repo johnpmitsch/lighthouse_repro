@@ -1,0 +1,10 @@
+{
+  "name": "lighthouse_repro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "lighthouse": "^9.4.0",
+    "puppeteer": "^13.5.0"
+  }
+}
